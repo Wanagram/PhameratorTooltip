@@ -1,0 +1,121 @@
+[{
+    "phagename": "D29",
+    "genes": [
+{
+		"name": 1,
+		"pham": "a1",
+		"start": 50,
+		"stop": 2000,
+		"direction": "forward",
+    "phage":"D29",
+    "sequence":"ATCGCGCGTATAGCGCGCTAGCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 2,
+		"pham": "a2",
+		"start": 2150,
+		"stop": 2900,
+		"direction": "reverse",
+    "phage":"D29",
+    "sequence":"ATCGCGCGTATAGCGCGCTAGCTAGCTGA"
+	},
+	{
+		"name": 3,
+		"pham": "a3",
+		"start": 3000,
+		"stop": 4550,
+		"direction": "reverse",
+    "phage":"D29",
+    "sequence":"ATCGCGCGCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 4,
+		"pham": "a4",
+		"start": 4700,
+		"stop": 7550,
+		"direction": "forward",
+    "phage":"D29",
+    "sequence":"AGCGCGCTAGCTAGCTGACTATATTATATAGCGCT"
+	}],
+	"genomelength": 9600
+},
+{
+    "phagename": "U2",
+    "genes": [{
+		"name": 1,
+		"pham": "a1",
+		"start": 70,
+		"stop": 2200,
+		"direction": "reverse",
+    "phage":"U2",
+    "sequence":"ATCGCGCGTATAGCGCGCGCGCGCTAGCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 2,
+		"pham": "a2",
+		"start": 2050,
+		"stop": 3200,
+		"direction": "forward",
+    "phage":"U2",
+    "sequence":"AATATATATTCGCGCGTATAGCGCGCTAGCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 3,
+		"pham": "a3",
+		"start": 3000,
+		"stop": 5000,
+		"direction": "forward",
+    "phage":"U2",
+    "sequence":"ACGCGCGCGCTCGCGCGTATAGCGCGCTAGCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 4,
+		"pham": "a4",
+		"start": 5500,
+		"stop": 7000,
+		"direction": "forward",
+    "phage":"U2",
+    "sequence":"ATCGCGCGTATAGCGCGCTAGCTAGCTGATATAACTATATTATATAGCGCT"
+	}],
+	"genomelength": 10000
+},
+{
+    "phagename": "L5",
+    "genes": [{
+		"name": 1,
+		"pham": "b1",
+		"start": 500,
+		"stop": 1000,
+		"direction": "forward",
+    "phage":"L5",
+    "sequence":"ATCGCGCGTATAGCGCGGCGCGCGCGCGCGCGCGCCT"
+	},
+	{
+		"name": 2,
+		"pham": "b2",
+		"start": 1500,
+		"stop": 2000,
+		"direction": "reverse",
+    "phage":"L5",
+    "sequence":"ATCGCGCGTATACGACTAGCCTAGCTGACTATATTATATAGCGCT"
+	},
+	{
+		"name": 3,
+		"pham": "b3",
+		"start": 3000,
+		"stop": 3300,
+		"direction": "reverse",
+    "phage":"L5",
+    "sequence":"ATCGCGCGTATAGCGCACTAGCTAGCATTATATAGCGCT"
+	},
+	{
+		"name": 4,
+		"pham": "b4",
+		"start": 6000,
+		"stop": 8800,
+		"direction": "forward",
+    "phage":"L5",
+    "sequence":"ATCGCGCGTATAGCGCGCGCGGCGCGCGCCTATATTATATAGCGCT"
+	}],
+	"genomelength": 9000
+}]
